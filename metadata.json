@@ -1,0 +1,5 @@
+{
+  "name": "AILight Login",
+  "description": "A visually appealing login page designed to replicate a provided UI mockup, featuring standard login, social media login options, and a floating action button.",
+  "requestFramePermissions": []
+}
